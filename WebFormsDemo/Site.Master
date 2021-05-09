@@ -9,7 +9,7 @@
     <a runat="server" href="~/">Home</a>
     <a runat="server" href="~/AboutDS">About</a>
     <a runat="server" href="~/Contact">Contact</a>
-            
+    <a runat="server" href="~/DataView">DataView</a>
 
     <h5>Content Page1</h5>
     <asp:ContentPlaceHolder ID="MainContent" runat="server">
@@ -23,10 +23,6 @@
 
 
     </asp:ContentPlaceHolder>
-
-
-
-
 
 </body>
 
